@@ -71,7 +71,7 @@
 
 //New Translation
 
-<string name="multiple_server">我正在使用群组服务器</string>
+<string name="multiple_server">我想控制多台服务器</string>
 <string name="add_server">添加服务器</string>
 <string name="add">添加</string>
 <string name="please_wait">请稍候</string>
